@@ -97,6 +97,16 @@ Optional: Scan custom ports
 ```bash
 python Network Scanner.py -n 192.168.1 -p 22,80,443
 ```
+## 🖥️ macOS Support
+
+This scanner works on macOS without any changes.
+- Use python3 instead of python
+- Use ifconfig or ip a to find your network prefix
+- All arguments (-n, -p, --network, --ports) work exactly the same
+Example:
+```bash
+python3 network_scanner.py -n 10.0.0
+```
 ## 🛠 Command Line Options
 
 | Flag | Description | Example |
