@@ -114,7 +114,7 @@ python3 network_scanner.py -n 10.0.0
 | `-n` / `--network` | Network prefix to scan | `-n 192.168.1` |
 | `-p` / `--ports` | Custom comma-separated ports | `-p 22,80,443` |
 
-## 📚 Learning Outcomes (Microsoft StudentAmbassador Focus)
+## 📚 Learning Outcomes (Microsoft Student Ambassador Focus)
 Students who explore this project will learn:
 - How ICMP ping works
 - How TCP ports and services operate
